@@ -1,3 +1,5 @@
 # EnergyAnalysis
-analisi di tendenze globali di produzione e consumo di energia elettrica
-Disponibile file pdf e ppt con illustrati i risultati ottenuti tramite analisi effettuata con Tableau
+
+This is a data Analystics project with Tableau. 
+
+The focus is world global trends about production and consumption of electricity based on the source used and reference countries.
